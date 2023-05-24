@@ -43,3 +43,18 @@ if menu_lateral == "Colaboradores":
     # Métrica de número total de funcionários
     total_funcionarios = len(Banco_Dados)
     st.write("Número total de funcionários:", total_funcionarios)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
